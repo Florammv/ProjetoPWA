@@ -1,7 +1,7 @@
 {
-    "name": "Barber House",
-    "short_name": "Barber",
-    "description": "Aplicativo da Barber House",
+    "name": "Salao e Barbeariae",
+    "short_name": "Barbearia",
+    "description": "Projeto PWA Etec Parque da Juventude",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#111111",
